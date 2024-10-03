@@ -1,16 +1,34 @@
-## Hi there 👋
+# Welcome!
 
-<!--
-**torrra/torrra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Noah :)  
+I am a young programmer located in the province of Québec, Canada.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some of my projects
+
+* [Math library](https://github.com/torrra/mathlib)
+* [Local network chat application](https://github.com/torrra/minichat)
+* [First-person puzzle game](https://github.com/torrra/spectrum-retreat-clone)
+
+
+<br>
+
+## About me
+
+<br>
+
+**I work mainly in:**
+
+* C++
+* C
+* C#
+
+<br>
+
+**I am interested in:**
+
+* Game development
+* Game engines
+* Low-level programming
+* Theory of computing
